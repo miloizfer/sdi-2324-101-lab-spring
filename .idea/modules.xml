@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl.iml" filepath="$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notaneitor/notaneitor.iml" filepath="$PROJECT_DIR$/notaneitor/notaneitor.iml" />
+    </modules>
+  </component>
+</project>
